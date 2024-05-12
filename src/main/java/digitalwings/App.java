@@ -1,4 +1,4 @@
-package digital-wings;
+package digitalwings;
 
 /**
  * Hello world!
