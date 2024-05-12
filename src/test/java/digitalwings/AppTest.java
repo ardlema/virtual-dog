@@ -1,4 +1,4 @@
-package digital-wings;
+package digitalwings;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
